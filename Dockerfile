@@ -18,7 +18,7 @@ RUN buildDeps=' \
     && apt-get purge --auto-remove -y $buildDeps
 
 # Prepare nginx config directories
-RUN mkdir -p /etc/nginx/sites-available/
+RUN mkdir -p /etc/nginx/sites-available/ /etc/nginx/sites-enabled/
 
 # Run always in foreground
 RUN echo "daemon off;" >> /etc/nginx/nginx.conf
