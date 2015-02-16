@@ -47,7 +47,7 @@ View [license information](https://github.com/jwilder/dockerize#license) for doc
 
 ## Issues
 
-If you have any problems with or questions about this image, please contact me through a [GitHub issue](https://github.com/estebanmatias92/docker-hhvm/issues).
+If you have any problems with or questions about this image, please contact me through a [GitHub issue](https://github.com/estebanmatias92/docker-nginx/issues).
 
 ## Contributing
 
